@@ -1,0 +1,8 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" rx="18" fill="#4338CA"/>
+  <text x="56" y="140" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="72" font-weight="700" fill="#F59E0B">&lt;/&gt;</text>
+  <text x="210" y="110" font-family="'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="2" fill="#FFFFFF">ANURAG SINGH</text>
+  <text x="210" y="150" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="20" fill="#C7D2FE">Lead Frontend Engineer · Microfrontend &amp; Fintech Architecture</text>
+  <rect x="210" y="172" width="560" height="5" fill="#F59E0B"/>
+  <text x="210" y="205" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="#A5B4FC">8+ years · React · TypeScript · Module Federation · Clean Architecture</text>
+</svg>
