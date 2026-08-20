@@ -273,15 +273,11 @@ A growing set of reusable, enterprise-ready npm packages focused on developer pr
 
 ## GitHub Activity
 
+<img src="./assets/metrics.svg" width="100%" alt="GitHub contribution calendar, top languages, activity, and achievements" />
+
+<br />
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaasingh905/aaasingh905/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaasingh905/aaasingh905/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aaasingh905/aaasingh905/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br /><br />
 
 <img src="https://img.shields.io/github/followers/aaasingh905?style=for-the-badge&color=4338CA&label=Followers&logo=github&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=aaasingh905&style=for-the-badge&color=F59E0B&label=Profile+Views" />
